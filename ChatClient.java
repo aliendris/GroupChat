@@ -63,7 +63,7 @@ public class ChatClient {
 
                 String readFromSocket;
                 try {
-                    // always read from the the server socket and print to the screen --- OUT#1
+                    // always read from the the server socket and print to the screen
                     while ((readFromSocket = inStreamReadFromSocket.readLine()) != null){
                         System.out.println(readFromSocket);
                     }
