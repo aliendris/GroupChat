@@ -10,10 +10,7 @@ import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Grahams laptop
- */
+
 public class GUI extends javax.swing.JFrame   {
     /**
      * Creates new form GUI
